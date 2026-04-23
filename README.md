@@ -5,7 +5,7 @@
 Anindita Sarkar
 
 
-Team members:Adrija Karmakar and Shreya Choudhury
+*Team members:Adrija Karmakar and Shreya Choudhury*
 ---
 
 ### 📌 Description
