@@ -1,11 +1,10 @@
 ## 🚗 Non-Falling Smart Car
 
-### 👩‍💻 Author
+### 👩‍💻 Author:
 
 Anindita Sarkar
+<h5>Team members:Adrija Karmakar and Shreya Choudhury</h5>
 
-
-*Team members:Adrija Karmakar and Shreya Choudhury*
 ---
 
 ### 📌 Description
