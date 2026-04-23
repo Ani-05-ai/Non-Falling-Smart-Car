@@ -33,4 +33,4 @@ The Non-Falling Smart Car is an autonomous robot designed to move safely without
 ### 💡 Summary
 
 A smart robotic car that can **detect obstacles, avoid collisions, and prevent falling from edges automatically**.
-<h5>Team members:Anindita Sarkar,Adrija Karmakar and Shreya Choudhury</h5>
+<h3>Team members:Anindita Sarkar,Adrija Karmakar and Shreya Choudhury</h3>
