@@ -1,8 +1,6 @@
 ## 🚗 Non-Falling Smart Car
 
-### 👩‍💻 Author:
-
-Anindita Sarkar
+### 👩‍💻 Author:Anindita Sarkar
 
 
 ---
