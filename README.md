@@ -1,2 +1,38 @@
-# Non-Falling-Smart-Car
-The Non-Falling Smart Car is an autonomous robot that uses IR sensors to detect edges and prevent falling, and an ultrasonic sensor to detect obstacles. It makes real-time decisions to move forward, stop, reverse, or turn, ensuring safe navigation. LED indicators provide visual feedback for sensor activity and system status.
+## 🚗 Non-Falling Smart Car
+
+### 👩‍💻 Author
+
+Anindita Sarkar
+
+
+Team members:Adrija Karmakar and Shreya Choudhury
+---
+
+### 📌 Description
+
+The Non-Falling Smart Car is an autonomous robot designed to move safely without falling and avoid obstacles using sensors.
+
+---
+
+### ⚙️ Functionalities
+
+1. **Obstacle Detection & Avoidance**
+
+   * Detects objects using an ultrasonic sensor
+   * Stops immediately and bypasses the obstacle by reversing and turning
+
+2. **Edge Detection (Anti-Fall Mechanism)**
+
+   * Uses IR sensors to detect the surface beneath the car
+   * If no surface is detected, the car stops and changes direction to prevent falling
+
+3. **Autonomous Movement**
+
+   * Moves forward when the path is clear and surface is safe
+   * Makes real-time decisions based on sensor inputs
+
+---
+
+### 💡 Summary
+
+A smart robotic car that can **detect obstacles, avoid collisions, and prevent falling from edges automatically**.
